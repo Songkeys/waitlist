@@ -23,7 +23,7 @@ const Footer = () => {
 						<IconBrandGithubFilled size="1.5em" />
 					</a>
 					<a
-						href="https://twitter.com/jointhewaitlist"
+						href="https://twitter.com/songkeys/status/1638885155971674113"
 						target="_blank"
 						rel="noopener noreferrer"
 						className="text-blue-600 hover:text-blue-800 transition-colors duration-200"
