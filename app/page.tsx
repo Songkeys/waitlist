@@ -21,7 +21,7 @@ export const metadata = {
 			"Join the waitlist for the waitlist so that you can join the waitlist",
 		images: [
 			{
-				url: "https://join-waitlist.vercel.app/og.png",
+				url: "https://join-waitlist.vercel.app/og.jpg",
 				alt: "Join the waitlist for the waitlist",
 			},
 		],
@@ -33,7 +33,7 @@ export const metadata = {
 			"Join the waitlist for the waitlist so that you can join the waitlist",
 		images: [
 			{
-				url: "https://join-waitlist.vercel.app/og.png",
+				url: "https://join-waitlist.vercel.app/og.jpg",
 				alt: "Join the waitlist for the waitlist",
 			},
 		],
